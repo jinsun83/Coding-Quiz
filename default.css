@@ -1,0 +1,7 @@
+body{
+    background: #3f3359;
+}
+
+#quiz, #result{
+    display: none;
+}

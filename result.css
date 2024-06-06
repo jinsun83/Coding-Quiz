@@ -1,0 +1,11 @@
+.result-container{
+    width: 80%;
+    height: 200px;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.container-text{
+    color: #29184d;
+    font-weight: bold;
+}

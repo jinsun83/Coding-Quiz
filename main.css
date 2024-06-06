@@ -1,0 +1,22 @@
+*{
+    color: white;
+}
+
+.title{
+    text-align: center;
+    width: 80%;
+}
+
+.quiz_btn{
+    width: 80%;
+    border: 0px;
+    text-align: center;
+    height: 55px;
+    border-radius: 20px;
+    font-size: 30px;
+    color: black;
+}
+
+#main{
+    width: 80%;
+}
